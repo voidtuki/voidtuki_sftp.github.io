@@ -47,7 +47,7 @@ public class ArrayList {
         }
     }
 
-    //3.get
+    //3.set
     public void set(int index,int newValue)
     {
         arrayList[index] = newValue;
